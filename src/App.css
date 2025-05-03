@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.boxplay{
+  border : 3px solid black;
+}
